@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+img {
+    width: 150px;
+    height: 150px; 
+    margin-right: 10px;
+}
+.creatorofpage {
+    margin: 0;
+    font-size: 25px;
+}
+.author {
+    font-size: 20px;
+    font-weight: bold;
+}
+.authorimg {
+    width: 400px;
+    height: 400px;
+}
+.tokyoghoul{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.volume1 {
+    height: 400px;
+    width: 300px;
+}
+.volume2 {
+    height: 400px;
+    width: 300px;
+}
+.kaneki{
+    width: 300px;
+    height: 400px;
+}
+.furuta {
+    width: 500px;
+    height: 400px;
+}
+.arima {
+    width: 400px;
+    height: 400px;
+}
+.maincharacter {
+    font-size: 20px;
+    font-weight: bold;
+}
+.start {
+    width: 330px;
+    height: 300px;
+}
+.torture {
+    width: 500px;
+    height: 300px;
+}
+.imaghoul {
+    width: 500px;
+    height: 300px;
+}
+.tuffkaneki {
+    width: 500px;
+    height: 300px;
+}
+.toukatext {
+    font-size: 20px;
+    font-weight: bold;
+}
+.touka {
+    width: 400px;
+    height: 400px;
+}
+.Yoshimura {
+   font-size: 20px;
+    font-weight: bold;
+}
+.mryoshimura {
+    width: 00px;
+    height: 600px;
+}
+.re {
+    font-size: 20px;
+    font-weight: bold;
+}
+.haise {
+    width: 300px;
+    height: 400px;
+}
+.haise2 {
+    width: 300px;
+    height: 400px;
+}
+.haisetorture {
+    width: 500px;
+    height: 400px;
+}
+.goodnight {
+    width: 400px;
+    height: 500px;
+}
+.haise3 {
+    width: 300px;
+    height: 400px;
+}
